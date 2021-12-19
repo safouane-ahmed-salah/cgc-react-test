@@ -1,0 +1,14 @@
+[
+    {
+        "username": "admin", 
+        "password": "admin123", 
+        "name": "Admin", 
+        "canEdit": true 
+    },
+    {
+        "username": "user", 
+        "password": "user123", 
+        "name": "User", 
+        "canEdit": false 
+    }
+]
